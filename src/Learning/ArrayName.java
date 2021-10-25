@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ArrayName {
     public static void main(String[] args) {
         int b;
-        System.out.println("Enter the Total number of characters");
+        System.out.println("Enter the Total number of c");
         Scanner sc = new Scanner(System.in);
         b = sc.nextInt();
 char [] a = new char [b];
