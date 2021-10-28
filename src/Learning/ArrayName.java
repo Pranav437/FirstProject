@@ -7,6 +7,7 @@ public class ArrayName {
         Scanner sc = new Scanner(System.in);
         b = sc.nextInt();
 char [] a = new char [b];
+        System.out.println("Hi");
         for (int i = 0; i < b; i++){
             System.out.println("Enter char " +(i+1));
             Scanner sc1 = new Scanner(System.in);
